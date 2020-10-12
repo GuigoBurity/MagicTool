@@ -1,0 +1,2 @@
+# MagicTool
+Magic!
